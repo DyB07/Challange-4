@@ -35,4 +35,5 @@ FilterTombol.addEventListener('click', (e) => {
         FilterDate(), 
         FilterTime(), 
         FilterCapacity())
+    e.preventDefault    
 })
