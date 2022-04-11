@@ -59,6 +59,14 @@ body {
 	transform: scaleX(-1);
 }
 
+
+.modal-dialog {
+	margin-top: -80px;
+	background-color: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+	border-radius: 8px;
+}
+
 /*Awal Footer*/
 .footer .container {
 	max-width: 1170px;
